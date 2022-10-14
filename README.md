@@ -12,17 +12,14 @@ My name is Yassmin Hamood (everyone calls me Yazzy) and I'm a Front End Develope
 <img src="https://github.com/yazzybandyham/yazzybandyham/blob/54ee43f666463be43fed3318ab7308cc6123bc2d/js.svg" width="30px">
 </p>
 
-# Get me on the Socials
+## Get me on the Socials
 <p style="align: left;">
-  <a></a>
-  <a></a>
+  <a href="https://twitter.com/yazzybandyham"> </a>
+  <a href="https://www.linkedin.com/in/yassmin-hamood/"> </a>
 </p>
 
 # GitHub Stats
 
 
 
-<!-- links to your social media accounts -->
 
-[1]: https://twitter.com/yazzybandyham
-[2]: https://www.linkedin.com/in/yassmin-hamood/
