@@ -12,9 +12,7 @@ My name is Yassmin Hamood (everyone calls me Yazzy) and I'm a Front End Develope
 ## Technologies & Tools
 ***
 
-![html](https://user-images.githubusercontent.com/91210593/195865826-d3e3110b-a69a-4c4e-a562-5e560d1be22e.svg width="25px")
-![download](https://user-images.githubusercontent.com/91210593/195865873-42dd1f9f-e5bb-4098-ab47-d0e6afd3802a.svg)
-![js](https://user-images.githubusercontent.com/91210593/195865890-0a1d002f-aa43-4c09-8f7b-3963b9997bce.svg)
+<img src="https://github.com/yazzybandyham/yazzybandyham/blob/e3b7040f30c2a567f5dbc4f145af081c8c5b82fa/html.svg" width="15px">
 
 
 # GitHub Stats
