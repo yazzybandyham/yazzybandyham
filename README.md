@@ -22,8 +22,8 @@ My name is Yassmin Hamood (everyone calls me Yazzy) and I'm a Front End Develope
 ## &#x1f4c8; GitHub Stats
 <div style="align: center">
   
-  [![yazzybandyham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazzybandyham&hide=stars,prs&show_icons=true)](https://github.com/yazzybandyham/github-readme-stats)
+  [![yazzybandyham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazzybandyham&hide=stars,prs&show_icons=true&theme=omni)](https://github.com/yazzybandyham/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazzybandyham)](https://github.com/yazzybandyham/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazzybandyham&layout=compact&theme=omni)](https://github.com/yazzybandyham/github-readme-stats)
   
 </div>
