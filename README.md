@@ -24,3 +24,4 @@ My name is Yassmin Hamood (everyone calls me Yazzy) and I'm a Front End Develope
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yazzybandyham&repo=github-readme-stats)](https://github.com/yazzybandyham/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazzybandyham)](https://github.com/yazzybandyham/github-readme-stats)
