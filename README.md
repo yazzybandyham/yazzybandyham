@@ -20,7 +20,7 @@ My name is Yassmin Hamood (everyone calls me Yazzy) and I'm a Front End Develope
 </p>
 
 ## &#x1f4c8; GitHub Stats
-
+[![yazzybandyham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazzybandyham)](https://github.com/yazzybandyham/github-readme-stats)
 
 
 
