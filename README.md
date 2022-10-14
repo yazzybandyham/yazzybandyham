@@ -1,19 +1,17 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-<!--
-**yazzybandyham/yazzybandyham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there 👋
+***
 
-Here are some ideas to get you started:
+My name is Yassmin Hamood (everyone calls me Yazzy) and I'm a Front End Developer from London, UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React.
+- 💻 You can find my portfolio at [yhdev.netlify.app](https://yhdev.netlify.app/)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+## Technologies & Tools
+***
+
+
+# GitHub Stats
+***
