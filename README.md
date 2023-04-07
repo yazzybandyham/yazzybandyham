@@ -3,7 +3,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 My name is Yassmin Hamood (call me Yazzy) and I'm a Front End Developer from London, UK.
 
-- 🌱 I’m currently learning Bootstrap.
+- 🌱 I’m currently learning React.
 - 💻 You can find my portfolio at [yhdev.netlify.app](https://yhdev.netlify.app/)
 - 👩‍💻 I'm currently working my way through Frontend Mentor Challenges.
 
